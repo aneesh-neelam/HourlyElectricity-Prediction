@@ -4,7 +4,7 @@ A simple MapReduce program that attempts to predict the hourly electricity usage
 
 ## Instructions
 
-We shall be running this program using the Hadoop Streaming API
+Run this program using the Hadoop Streaming API
 
 #### Place data into HDFS:
     $ hadoop fs -put ./data.csv [hdfs-path-to-input]
